@@ -1,0 +1,32 @@
+body{
+  font-family:Arial;
+  margin:15;
+  padding:20;
+}
+
+header{
+   background-color:#333;
+   color:#fff;
+   padding:1em;
+   text-align:center;
+}
+
+nav ul{
+   list-style:disc;
+   margin:20;
+   padding:20;
+}
+
+nav a{
+    color:#fff;
+    text-decoration:underline;
+
+main{
+  display:flex;
+  fex-direction:column;
+  align-items:center;
+  padding:2em;
+}
+
+section{
+ background-color:#f7f7f7;   
