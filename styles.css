@@ -5,7 +5,7 @@ body{
 }
 
 header{
-   background-color:blue;
+   background-color:#ADD8E6;
    color:#fff;
    padding:1em;
    text-align:center;
@@ -18,7 +18,7 @@ nav ul{
 }
 
 nav a{
-    color:#fff;
+    color:#FFB6C1;
     text-decoration:underline;
 
 main{
